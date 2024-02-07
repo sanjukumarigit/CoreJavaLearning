@@ -2,56 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="507055d8-90cc-41f2-b78a-1722aa2b78cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATB5xJavaPrograms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_01/LAB_002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_02/Lab_004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_02/Lab_005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_02/Lab_006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_02/Lab_007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_02/Lab_008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_02/Lab_009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_02/Lab_010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_02/Lab_011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_02/Lab_012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_02/Lab_013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_02/Lab_014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_02/Lab_015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_02/Lab_016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_02/Lab_017.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_02/Lab_018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_024.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_025.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_027.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_028.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_029.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_030.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_031.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_032.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_033.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_034.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_035.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_036.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_037.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_038.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_040.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_041.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_042.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_043.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_044.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_045.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_046.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/Lab_048.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_04/Lab_050.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_04/Lab_051.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_04/Lab_054.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_04/Lab_055.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_04/Lab_056.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_04/Lab_057.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_04/Lab_058.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_04/Lab_059.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_04/Lab_060.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_04/Lab_061.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_04/Lab_062.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_04/Lab_063.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_04/Lab_064.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_04/Lab_065.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_04/Lab_067.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATB5xJavaPrograms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xJavaPrograms/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATB5xJavaPrograms/src/basics_03/Lab_048.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xJavaPrograms/src/basics_03/Lab_048.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,13 +59,13 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab_048">
-    <configuration name="Lab_044" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.Lab_044" />
+  <component name="RunManager" selected="Application.Lab_067">
+    <configuration name="Lab_062" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_04.Lab_062" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_03.*" />
+          <option name="PATTERN" value="src.basics_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_045" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.Lab_045" />
+    <configuration name="Lab_063" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_04.Lab_063" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_03.*" />
+          <option name="PATTERN" value="src.basics_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_046" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.Lab_046" />
+    <configuration name="Lab_064" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_04.Lab_064" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_03.*" />
+          <option name="PATTERN" value="src.basics_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.Lab_047" />
+    <configuration name="Lab_065" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_04.Lab_065" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_03.*" />
+          <option name="PATTERN" value="src.basics_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_048" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.Lab_048" />
+    <configuration name="Lab_067" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_04.Lab_067" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_03.*" />
+          <option name="PATTERN" value="src.basics_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab_048" />
-        <item itemvalue="Application.Lab_047" />
-        <item itemvalue="Application.Lab_046" />
-        <item itemvalue="Application.Lab_045" />
-        <item itemvalue="Application.Lab_044" />
+        <item itemvalue="Application.Lab_067" />
+        <item itemvalue="Application.Lab_065" />
+        <item itemvalue="Application.Lab_064" />
+        <item itemvalue="Application.Lab_063" />
+        <item itemvalue="Application.Lab_062" />
       </list>
     </recent_temporary>
   </component>
@@ -248,6 +216,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/basics_04/Lab_062.java</url>
+          <line>4</line>
+          <properties class="src.basics_04.Lab_062" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

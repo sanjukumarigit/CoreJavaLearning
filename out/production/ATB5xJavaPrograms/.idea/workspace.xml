@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="507055d8-90cc-41f2-b78a-1722aa2b78cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basics_04/Lab_050.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05/Lab_068.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05/Lab_069.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05/Lab_070.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05/Lab_071.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05/Lab_073.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05/Lab_075.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05/Lab_076.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05/Lab_077.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05/Lab_078.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05/Lab_079.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05/Lab_082.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +53,13 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab_050">
-    <configuration name="Lab_045" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.Lab_045" />
+  <component name="RunManager" selected="Application.Lab_082">
+    <configuration name="Lab_075" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05.Lab_075" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_03.*" />
+          <option name="PATTERN" value="src.basics_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_046" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.Lab_046" />
+    <configuration name="Lab_076" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05.Lab_076" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_03.*" />
+          <option name="PATTERN" value="src.basics_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.Lab_047" />
+    <configuration name="Lab_078" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05.Lab_078" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_03.*" />
+          <option name="PATTERN" value="src.basics_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_048" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.Lab_048" />
+    <configuration name="Lab_079" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05.Lab_079" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_03.*" />
+          <option name="PATTERN" value="src.basics_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_04.Lab_050" />
+    <configuration name="Lab_082" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05.Lab_082" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_04.*" />
+          <option name="PATTERN" value="src.basics_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab_050" />
-        <item itemvalue="Application.Lab_048" />
-        <item itemvalue="Application.Lab_047" />
-        <item itemvalue="Application.Lab_046" />
-        <item itemvalue="Application.Lab_045" />
+        <item itemvalue="Application.Lab_082" />
+        <item itemvalue="Application.Lab_079" />
+        <item itemvalue="Application.Lab_078" />
+        <item itemvalue="Application.Lab_076" />
+        <item itemvalue="Application.Lab_075" />
       </list>
     </recent_temporary>
   </component>
@@ -200,6 +210,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/basics_04/Lab_062.java</url>
+          <line>4</line>
+          <properties class="src.basics_04.Lab_062" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
